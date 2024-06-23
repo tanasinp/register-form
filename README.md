@@ -1,8 +1,12 @@
-# React + Vite
+# Register Form Sample App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Sample application to demonstrate how to create a register form app using MySQL as the database and REST API for interaction.
 
-Currently, two official plugins are available:
+## Description
+This repository contains the sample code for a register form application. The app interacts with a MySQL database using a REST API to handle user registration.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Tools
+- Node.js
+- Express.js
+- MySQL
+- REST API
